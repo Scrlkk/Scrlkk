@@ -1,16 +1,90 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Scrlkk/Scrlkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Sheva Azki 👋</h1>
+<p>Junior Full-Stack Developer based in Yogyakarta / Surakarta, ID</p>
 
-Here are some ideas to get you started:
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,laravel,php,nodejs,express,tailwind,bootstrap,postgres,mysql,git&theme=dark" alt="Tech stack icons" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br/>
+
+## About Me
+
+Lulusan D3 Teknik Informatika, Universitas Sebelas Maret (UNS). Saya suka membangun aplikasi web dari ujung ke ujung — dari desain skema database sampai UI yang enak dipakai. Belakangan ini fokus di arsitektur API-driven, di mana frontend dan backend dipisah jelas biar mudah dikembangkan dan diuji.
+
+Saat ini saya sedang aktif mencari kerja sebagai **Full-Stack / Backend Developer**. Terbuka untuk kesempatan magang, entry-level, maupun freelance — kalau ada tim yang lagi butuh developer, jangan ragu untuk reach out lewat kontak di bawah 🙌
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,vue,react,tailwind,bootstrap,css&theme=dark" />
+
+<br/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark" />
+
+<br/>
+
+**Tools & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postgres,mysql,docker,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Sejajar Creative — Frontend](https://github.com/Scrlkk/frontend-sejajar.git)**
+
+Dashboard & CMS kolaboratif untuk manajemen konten media sosial. Dibangun dengan React 19 + TypeScript, dengan 6 role RBAC dan 3 modul utama (User Management, Monitoring, Engagement).
+
+</td>
+<td width="50%" valign="top">
+
+**[Sejajar Creative — Backend](https://github.com/Scrlkk/backend-sejajarcreative.git)**
+
+REST API untuk sistem di atas, dibangun dengan Express.js dan PostgreSQL, menangani autentikasi berbasis role dan logika bisnis utama.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Stats
+
+<table>
+<tr>
+<td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Scrlkk&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" /></td>
+<td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Scrlkk&layout=compact&theme=dark&hide_border=true&hide=java" width="100%" /></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Scrlkk&theme=github-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+
+<br/>
+
+## Get in Touch
+
+<div align="center">
+
+<a href="mailto:shevaazki6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
+<a href="https://instagram.com/scrlkk_"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
+<a href="https://www.linkedin.com/in/sheva-azki/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+
+</div>
