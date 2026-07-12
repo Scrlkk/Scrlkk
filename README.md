@@ -49,14 +49,20 @@ Saat ini saya sedang aktif mencari kerja sebagai **Full-Stack / Backend Develope
 
 **[Sejajar Creative — Frontend](https://github.com/Scrlkk/frontend-sejajar.git)**
 
-Dashboard & CMS kolaboratif untuk manajemen konten media sosial. Dibangun dengan React 19 + TypeScript, dengan 6 role RBAC dan 3 modul utama (User Management, Monitoring, Engagement).
+Dashboard & CMS kolaboratif manajemen konten media sosial dengan visualisasi chart dinamis, optimasi *route preloading*, dan *state-caching* (React Query).
+
+<br/>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&theme=dark" height="25" alt="Frontend Stack" />
 
 </td>
 <td width="50%" valign="top">
 
 **[Sejajar Creative — Backend](https://github.com/Scrlkk/backend-sejajarcreative.git)**
 
-REST API untuk sistem di atas, dibangun dengan Express.js dan PostgreSQL, menangani autentikasi berbasis role dan logika bisnis utama.
+REST API performa tinggi yang menangani autentikasi JWT aman, pembatasan laju (*rate limiting*), pencatatan *audit logs* otomatis, serta dokumentasi Swagger.
+
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker&theme=dark" height="25" alt="Backend Stack" />
 
 </td>
 </tr>
