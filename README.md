@@ -1,68 +1,92 @@
 <div align="center">
 
-<h1>Hi, I'm Sheva Azki 👋</h1>
-<p>Junior Full-Stack Developer based in Yogyakarta / Surakarta, ID</p>
+# Hi, I'm Sheva Azki 👋
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,laravel,php,nodejs,express,tailwind,bootstrap,postgres,mysql,git&theme=dark" alt="Tech stack icons" />
+**Junior Full-Stack / Backend Developer** based in Indonesia  
+*Specializing in scalable database architectures, robust RESTful APIs, and decoupled modern frontends.*
 
 </div>
 
 <br/>
 
-## About Me
+## 📌 About Me
 
-Lulusan D3 Teknik Informatika, Universitas Sebelas Maret (UNS). Saya suka membangun aplikasi web dari ujung ke ujung — dari desain skema database sampai UI yang enak dipakai. Belakangan ini fokus di arsitektur API-driven, di mana frontend dan backend dipisah jelas biar mudah dikembangkan dan diuji.
+Diploma (D3) graduate in Informatics from Universitas Sebelas Maret (UNS). I engineer end-to-end web applications with a strong emphasis on clean decoupling between client and server layers. My focus revolves around building resilient business logic, strict access control, and predictable API contracts.
 
-Saat ini saya sedang aktif mencari kerja sebagai **Full-Stack / Backend Developer**. Terbuka untuk kesempatan magang, entry-level, maupun freelance — kalau ada tim yang lagi butuh developer, jangan ragu untuk reach out lewat kontak di bawah 🙌
+- 🔭 **Currently Building:** Full-stack POS & Inventory Monorepo ecosystem ([Sela Coffee](https://github.com/Scrlkk/sela-coffe.git)).
+- 🌱 **Actively Exploring:** Microservice communication patterns, automated integration testing, and container orchestration.
+- 🎯 **Looking for:** Opportunities as a **Full-Stack or Backend Developer** (Entry-level, Junior, or Freelance).
 
 <br/>
 
-## Tech Stack
+## 💡 Core Engineering Principles
 
+<!-- ponytail: compact principles highlighting engineering depth over syntax familiarity -->
+- **🛡️ API Security & Authorization:** Strict input validation at entry points, JWT-based authentication, and granular Role-Based Access Control (RBAC) to eliminate IDOR and unauthorized execution.
+- **📐 Clean Decoupling & Maintainability:** Explicit boundary layers between controllers, services, and repositories, using type-safe schemas (TypeScript + Prisma).
+- **⚡ Performance & Data Integrity:** Relational database indexing, transaction-wrapped financial workflows, and server-state caching (TanStack Query).
+
+<br/>
+
+## 🛠️ Core Tech Stack
+
+<!-- ponytail: trimmed down vanity icons (no html/css/vscode clutter) -->
 <div align="center">
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,vue,react,tailwind,bootstrap,css&theme=dark" />
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&theme=dark" alt="Frontend Stack" />
 
 <br/>
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark" />
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,prisma&theme=dark" alt="Backend Stack" />
 
 <br/>
 
-**Tools & Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,postgres,mysql,docker,vscode&theme=dark" />
+**Database & DevOps**  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git&theme=dark" alt="Database and DevOps Stack" />
 
 </div>
 
 <br/>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### ☕ [Sela Coffee — POS & Inventory Management System](https://github.com/Scrlkk/sela-coffe.git)
+
+*Full-stack Monorepo POS & automated procurement platform for F&B operations.*
+
+- **Key Highlights:** Real-time cash shift reconciliation, automated recipe/ingredient deduction upon order checkout, purchase order (PO) workflows, and role-based operational permissions.
+- **Stack:** TypeScript, React, Vite, Node.js, Express, Prisma, PostgreSQL, Docker.
+- **Links:** [Source Code](https://github.com/Scrlkk/sela-coffe.git)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-**[Sejajar Creative — Frontend](https://github.com/Scrlkk/frontend-sejajar.git)**
+### 🎨 [Sejajar Creative — Frontend](https://github.com/Scrlkk/frontend-sejajar.git)
 
-Dashboard & CMS kolaboratif manajemen konten media sosial dengan visualisasi chart dinamis, optimasi *route preloading*, dan *state-caching* (React Query).
+*Collaborative social media content management & marketing CMS dashboard.*
 
-<br/>
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&theme=dark" height="25" alt="Frontend Stack" />
+- **Key Highlights:** Dynamic KPI chart visualizations, route preloading optimizations, and server-state caching with TanStack Query.
+- **Stack:** React, TypeScript, Tailwind CSS, Vite.
+- **Links:** [Source Code](https://github.com/Scrlkk/frontend-sejajar.git)
 
 </td>
 <td width="50%" valign="top">
 
-**[Sejajar Creative — Backend](https://github.com/Scrlkk/backend-sejajarcreative.git)**
+### ⚙️ [Sejajar Creative — Backend](https://github.com/Scrlkk/backend-sejajarcreative.git)
 
-REST API performa tinggi yang menangani autentikasi JWT aman, pembatasan laju (*rate limiting*), pencatatan *audit logs* otomatis, serta dokumentasi Swagger.
+*High-throughput RESTful API powering CMS operations.*
 
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker&theme=dark" height="25" alt="Backend Stack" />
+- **Key Highlights:** JWT authentication, IP-based rate limiting, audit logging middleware, composite DB indexing, and Swagger OpenAPI documentation.
+- **Stack:** Node.js, Express, PostgreSQL, Docker.
+- **Links:** [Source Code](https://github.com/Scrlkk/backend-sejajarcreative.git)
 
 </td>
 </tr>
@@ -70,27 +94,12 @@ REST API performa tinggi yang menangani autentikasi JWT aman, pembatasan laju (*
 
 <br/>
 
-## GitHub Stats
-
-<table>
-<tr>
-<td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Scrlkk&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" /></td>
-<td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Scrlkk&layout=compact&theme=dark&hide_border=true&hide=java" width="100%" /></td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Scrlkk&theme=github-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-
-<br/>
-
-## Get in Touch
+## 📬 Get in Touch
 
 <div align="center">
 
-<a href="mailto:shevaazki6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
-<a href="https://instagram.com/scrlkk_"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
-<a href="https://www.linkedin.com/in/sheva-azki/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+[![Email](https://img.shields.io/badge/Email-shevaazki6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shevaazki6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sheva%20Azki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheva-azki/)
+[![Instagram](https://img.shields.io/badge/Instagram-@scrlkk__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/scrlkk_)
 
 </div>
